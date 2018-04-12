@@ -1,0 +1,3 @@
+QuizAppApi/QuizAppApi/bin
+QuizAppApi/QuizAppApi/obj
+QuizAppApi/.vs
