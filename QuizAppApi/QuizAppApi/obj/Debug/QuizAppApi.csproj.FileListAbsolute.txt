@@ -60,3 +60,7 @@ C:\dev\Angular-QuizApp\QuizAppApi\QuizAppApi\obj\Debug\QuizAppApi.pdb
 C:\dev\Angular-QuizApp\QuizAppApi\QuizAppApi\bin\System.Web.Cors.dll
 C:\dev\Angular-QuizApp\QuizAppApi\QuizAppApi\bin\System.Web.Http.Cors.dll
 C:\dev\Angular-QuizApp\QuizAppApi\QuizAppApi\bin\System.Web.Http.Cors.xml
+C:\dev\Angular-QuizApp\QuizAppApi\QuizAppApi\bin\EntityFramework.dll
+C:\dev\Angular-QuizApp\QuizAppApi\QuizAppApi\bin\EntityFramework.SqlServer.dll
+C:\dev\Angular-QuizApp\QuizAppApi\QuizAppApi\bin\EntityFramework.xml
+C:\dev\Angular-QuizApp\QuizAppApi\QuizAppApi\bin\EntityFramework.SqlServer.xml
